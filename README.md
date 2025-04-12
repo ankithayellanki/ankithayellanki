@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Ankitha Yellanki
 
 - 🎓I’m currently pursuing a Bachelor of Technology(Final year)
 - 🌱 I Have gained Hands-on experience with power BI and UI/UX designs 
